@@ -35,7 +35,7 @@ node index.js
 
 
 // 启动前端
-cd backend/utils
+cd frontend/src
 // 复制配置文件, 并修改对应配置
 cp config.simple.js config.js
 cd ..
